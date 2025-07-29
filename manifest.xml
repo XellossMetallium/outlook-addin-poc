@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://placehold.co/128x128/424242/FFFFFF?text=MS"/>
   <SupportUrl DefaultValue="https://www.lavoro.gov.it"/>
   <AppDomains>
-    <!-- Qui andrà il dominio di GitHub, es: <AppDomain>mario-matteis.github.io</AppDomain> -->
+    xellossmetallium.github.io
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
