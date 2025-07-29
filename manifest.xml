@@ -23,15 +23,15 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://INSERISCI_URL_GITHUB_PAGES_QUI/taskpane.html"/>
+        <SourceLocation DefaultValue="https://xellossmetallium.github.io/outlook-addin-poc/"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
       <TabletSettings>
-        <SourceLocation DefaultValue="https://INSERISCI_URL_GITHUB_PAGES_QUI/taskpane.html"/>
+        <SourceLocation DefaultValue="https://xellossmetallium.github.io/outlook-addin-poc/"/>
         <RequestedHeight>250</RequestedHeight>
       </TabletSettings>
       <PhoneSettings>
-        <SourceLocation DefaultValue="https://INSERISCI_URL_GITHUB_PAGES_QUI/taskpane.html"/>
+        <SourceLocation DefaultValue="https://xellossmetallium.github.io/outlook-addin-poc/"/>
       </PhoneSettings>
     </Form>
   </FormSettings>
@@ -81,7 +81,7 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://placehold.co/80x80/424242/FFFFFF?text=MS"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://INSERISCI_URL_GITHUB_PAGES_QUI/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://xellossmetallium.github.io/outlook-addin-poc/"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="MailSync AI"/>
